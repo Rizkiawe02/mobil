@@ -7,7 +7,7 @@
                         <div class="display-table">
                             <div class="display-table-cell">
                                 <h1>SELAMAT DATANG!</h1>
-                                <p>RENTAL MOBIL TERBAIK SE-PEKANBARU<br>HARGA BERSAHABAT, KUALITAS PALING MANTAP</p>
+                                <p>RENTAL MOBIL<br>HARGA BERSAHABAT</p>
 
 
                             </div>
@@ -20,32 +20,6 @@
     <!--== SlideshowBg Area End ==-->
 
     <!--== Partner Area Start ==-->
-    <div id="partner-area">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <div class="partner-content-wrap">
-                        <!-- Single Partner Start -->
-
-                        <?php foreach ($rental as $rt) : ?>
-                            <div class="single-partner">
-                                <div class="display-table">
-                                    <div class="display-table-cell">
-                                        <!-- <img src="assets/img/partner/partner-logo-1.png" alt="JSOFT"> -->
-                                        <h5><?php echo $rt->nama_rental ?></h5>
-                                    </div>
-                                </div>
-                            </div>
-
-                        <?php endforeach; ?>
-                        <!-- Single Partner End -->
-
-                    
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
     <!--== Partner Area End ==-->
 
     <!--== Fun Fact Area Start ==-->

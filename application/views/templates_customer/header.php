@@ -8,7 +8,7 @@
     <!--=== Favicon ===-->
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 
-    <title>Cardoor - Marketplace Rental Mobil Se-Pekanbaru</title>
+    <title>Rental Mobil - Marketplace Rental</title>
 
     <!--=== Bootstrap CSS ===-->
     <link href="<?php echo base_url() ?>assets/assets_shop/css/bootstrap.min.css" rel="stylesheet">
@@ -87,7 +87,7 @@
                     <!--== Logo Start ==-->
                     <div class="col-lg-4">
                         <a href="<?php echo base_url() ?>" class="logo">
-                            <img src="<?php echo base_url() ?>assets/assets_shop/img/logo.png" alt="JSOFT">
+                            <img src="<?php echo base_url() ?>assets/assets_shop/img/logo4.png" alt="JSOFT">
                         </a>
                     </div>
                     <!--== Logo End ==-->

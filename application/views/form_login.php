@@ -42,7 +42,7 @@
               Belum memiliki akun? <a href="<?php echo base_url('register') ?>">Buat akun</a>
             </div>
             <div class="simple-footer">
-              Copyright &copy; Stisla 2018
+              Copyright &copy; Rizki Adi Wicaksono
             </div>
           </div>
         </div>

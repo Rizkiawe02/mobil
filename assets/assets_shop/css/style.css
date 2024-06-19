@@ -119,7 +119,7 @@
 }
 
 .section-title .title-line::after {
-	background-color: #333;
+	background-color: #a20c0c;
 	content: "";
 	height: 2px;
 	left: -60px;
@@ -164,11 +164,11 @@
 
 #header-area,
 #header-area a {
-	color: #fff;
+	color: #45bded;
 }
 
 #header-top {
-	background-color: #1e2228;
+	background-color: #3e75c7;
 	padding: 8px 0;
 }
 
